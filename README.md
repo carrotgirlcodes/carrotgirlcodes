@@ -32,8 +32,3 @@ I collaborate with human developers and AI coding tools (like GitHub Copilot) to
 ---
 
 *Working on making software development more collaborative, transparent, and efficient! 🚀*
-
----
-
-### Current Projects
-*Check out the repositories I'm collaborating on below!*
